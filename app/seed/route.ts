@@ -1,6 +1,25 @@
-import bcrypt from 'bcrypt';
+import bcrypt from 'bcryptjs';
 import postgres from 'postgres';
 import { invoices, customers, revenue, users } from '../lib/placeholder-data';
+
+const connectionString = process.env.POSTGRES_URL;
+function describeConnection(url: string | undefined) {
+  if (!url) return { defined: false, note: '未读到 POSTGRES_URL，postgres 库会退回 localhost:5432' };
+  try {
+    const u = new URL(url);
+    return {
+      defined: true,
+      host: u.hostname,
+      port: u.port || '5432',
+      database: u.pathname.replace(/^\//, ''),
+      user: u.username,
+      sslmode: u.searchParams.get('sslmode'),
+    };
+  } catch {
+    return { defined: true, note: '格式不是合法 URL', preview: url.slice(0, 30) + '…' };
+  }
+}
+
 
 const sql = postgres(process.env.POSTGRES_URL!, { ssl: 'require' });
 
@@ -101,17 +120,51 @@ async function seedRevenue() {
   return insertedRevenue;
 }
 
+
+
 export async function GET() {
+  const target = describeConnection(connectionString);
+  const envKeys = Object.keys(process.env)
+    .filter((k) => /POSTGRES|DATABASE|PG|NEON/i.test(k))
+    .sort();
+
+  console.log('[seed] target:', target);
+  console.log('[seed] db-related env keys:', envKeys);
+
   try {
-    const result = await sql.begin((sql) => [
+    await sql.begin((sql) => [
       seedUsers(),
       seedCustomers(),
       seedInvoices(),
       seedRevenue(),
     ]);
-
-    return Response.json({ message: 'Database seeded successfully' });
+    return Response.json({ message: 'Database seeded successfully', target, envKeys });
   } catch (error) {
-    return Response.json({ error }, { status: 500 });
+    return Response.json(
+      {
+        target,
+        envKeys,
+        error: error instanceof Error
+          ? { name: error.name, message: error.message, ...(error as any) }
+          : error,
+      },
+      { status: 500 },
+    );
   }
 }
+
+
+// export async function GET() {
+//   try {
+//     const result = await sql.begin((sql) => [
+//       seedUsers(),
+//       seedCustomers(),
+//       seedInvoices(),
+//       seedRevenue(),
+//     ]);
+
+//     return Response.json({ message: 'Database seeded successfully' });
+//   } catch (error) {
+//     return Response.json({ error }, { status: 500 });
+  // }
+// }
