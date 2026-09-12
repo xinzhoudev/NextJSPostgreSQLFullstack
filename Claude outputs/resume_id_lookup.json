@@ -1,0 +1,540 @@
+{
+  "meta": {
+    "name": "Xin Zhou",
+    "location": "Irvine, California, 92617",
+    "phone": "(949)738-7740",
+    "email": "xin.zhou.dev@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/xin-zhou-dev",
+    "github": "https://github.com/xinzhoudev",
+    "work_authorization_line": "Authorized to work for any U.S. employer without sponsorship (Asylee status); protected under 8 USC 1324b(a)(3)."
+  },
+  "education": [
+    {
+      "school": "University of California, Irvine",
+      "degree": "Master of Software Engineering",
+      "dates": "Sep 2025 - Dec 2026"
+    },
+    {
+      "school": "Shanghai University of Finance and Economics",
+      "degree": "Bachelor of Computer Science & Finance",
+      "dates": "Sep 2014 - Jul 2018"
+    }
+  ],
+  "coursework": ["c1:Concurrent Programming", "c2:Data Structure & Algorithm", "c3:Network Programming", "c4:GUI Programming", "c5:Neural Network Programming", "c6:Programming Styles", "c7:Distributed Software Architecture", "c8:Software Debugging & Testing", "c9:Database Programming", "c10:Web Programming", "c11:Principles of Computers", "c12:Operating System", "c13:Computer Network", "c14:Database Principles", "c15:Information System Analysis and Design", "c16:Object-Oriented Programming Design", "c17:Cloud Security Foundation"],
+  "skills": {
+    "Programming Language": ["s1:Java", "s2:Python", "s3:SQL", "s4:C/C++", "s5:HTML", "s6:CSS", "s7:JavaScript", "s8:TypeScript"],
+    "Dev Tools": ["s9:Docker", "s10:GitHub", "s11:Linux / Unix", "s12:Vim", "s13:Git", "s14:VS Code", "s15:AWS Deployment (EC2, Route53)", "s16:NPM"],
+    "Web Framework": ["s17:React (Vite)", "s18:TailwindCSS", "s19:Express", "s20:Node.js", "s21:MongoDB", "s22:MySQL"],
+    "Software Testing": ["s23:JUnit Test", "s24:Partitioning / Boundary Value Testing", "s25:Black-box Testing", "s26:White-box Testing", "s27:Static Analysis (PMD, CodeQL)", "s28:CI/CD (GitHub Actions)"],
+    "Cloud Security": ["s29:Wireshark", "s30:Hashcat", "s31:Kali Linux", "s32:Burp Suite", "s33:Shodan", "s34:Censys", "s35:OWASP"],
+    "UX/UI": ["s36:Figma", "s37:Mobile App Design"],
+    "AI/LLM Engineering": ["s38:OpenAI SDK / Agents SDK", "s39:CrewAI", "s40:LangChain", "s41:LangGraph", "s42:LangSmith", "s43:MCP (Model Context Protocol)", "s44:RAG (Chroma, FAISS)", "s45:LoRA Fine-tuning", "s46:Claude Code / Codex / ChatGPT (AI-assisted dev)"]
+  },
+  "experience": [
+    {
+      "id": "e1",
+      "title": "Data Analyst (Python, SAS, SQL)",
+      "dates": "Jul 2020 - Oct 2023",
+      "org": "Industrial Bank - Credit Card Center (Fortune Global 500)",
+      "location": "Shanghai, China",
+      "tags": ["Python", "SAS", "SQL", "Machine Learning", "Statistics", "DS-ML"],
+      "bullets": [
+        {
+          "id": "e1.1",
+          "text": "Built a champion-challenger credit scoring framework on 30M+ customer records; reduced feature space from 250+ variables to 18 high-IV predictors via WOE and IV selection, achieving KS of 0.47 on holdout test set.",
+          "tags": ["feature-selection", "credit-scoring", "WOE-IV"]
+        },
+        {
+          "id": "e1.2",
+          "text": "Engineered an ensemble model (Decision Tree, Support Vector Machine (SVM), Logistic Regression, LSTM, DSN) with boosting and bagging, improving KS from 0.47 to 0.52 over the logistic regression baseline while maintaining PSI < 0.1 for population stability.",
+          "tags": ["ensemble-modeling", "machine-learning", "model-stability"]
+        },
+        {
+          "id": "e1.3",
+          "text": "Developed a seasonally adjusted ARIMA model incorporating macroeconomic indicators (vehicle sales, commodity indices) to forecast credit card overdrafts; achieved 27-day MAE of 0.07%, directly supporting risk provisioning decisions.",
+          "tags": ["time-series", "ARIMA", "forecasting"]
+        },
+        {
+          "id": "e1.4",
+          "text": "Conducted statistical validation (T-test, KS-test, Chi-square, p < 0.05) on risk data pipelines, passing acceptance criteria for a FICO bidding project.",
+          "tags": ["statistical-testing", "data-validation"]
+        }
+      ]
+    },
+    {
+      "id": "e2",
+      "title": "AI-Agent Intern, Automated Institutional Research Reporting (Paid)",
+      "dates": "Jun 2026 - Jul 2026",
+      "org": "University of California, Irvine - Institutional Research, Assessment, and Planning",
+      "location": "Irvine, California",
+      "tags": ["Python", "LLM", "JSON Schema", "DOCX Generation", "AI-agent-engineering", "DS-analytics"],
+      "bullets": [
+        {
+          "id": "e2.1",
+          "text": "Designed reusable notebooks and Python modules to aggregate multi-year admissions/enrollment/graduation KPIs from standardized Institutional Research (IR) report files.",
+          "tags": ["data-pipeline", "python", "reporting-automation"]
+        },
+        {
+          "id": "e2.2",
+          "text": "Connected aggregated payloads to an enterprise Large Language Model (LLM) gateway (ZotGPT) for consistent, parseable narrative generation.",
+          "tags": ["LLM-integration", "enterprise-ai"]
+        },
+        {
+          "id": "e2.3",
+          "text": "Delivered publication-style DOCX reports with embedded visualizations and placeholder-driven layout for local data injection.",
+          "tags": ["docx-automation", "reporting"]
+        },
+        {
+          "id": "e2.4",
+          "text": "Engineered 8 domain-specific system prompts with strict JSON-only output and faculty discussion-question templates; integrated structured outputs via JSON schema and tool calling.",
+          "tags": ["prompt-engineering", "structured-output", "json-schema"]
+        }
+      ]
+    },
+    {
+      "id": "e3",
+      "title": "Software Engineering Intern - Legacy PHP Platform Modernization (Paid)",
+      "dates": "Jun 2026 - Jul 2026",
+      "org": "University of California, Irvine - IT Department",
+      "location": "Irvine, California",
+      "tags": ["PHP", "PDO", "Python", "SQL", "LLM-assisted refactoring", "SWE-backend"],
+      "bullets": [
+        {
+          "id": "e3.1",
+          "text": "Migrated an 11,315-modification legacy PHP web application from deprecated mysql_*/mysqli APIs to PDO with prepared statements to improve security and PHP runtime compatibility.",
+          "tags": ["legacy-migration", "PHP", "SQL-injection-prevention"]
+        },
+        {
+          "id": "e3.2",
+          "text": "Built a Python static analyzer to extract multi-line SQL/query blocks with accurate line numbers and per-file JSON manifests for scoped refactoring.",
+          "tags": ["static-analysis", "python", "tooling"]
+        },
+        {
+          "id": "e3.3",
+          "text": "Implemented an LLM-assisted patch pipeline (12 codified rewrite rules) that applies line-level diffs bottom-up and logs failures for manual review.",
+          "tags": ["LLM-assisted-refactoring", "automation", "pipeline"]
+        },
+        {
+          "id": "e3.4",
+          "text": "Generated a consolidated PHP verification harness to compare SELECT result sets before/after migration, ensuring behavioral equivalence at scale.",
+          "tags": ["testing", "verification", "regression-testing"]
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "p1",
+      "title": "Full-Stack Development Task Management",
+      "dates": "May 2025 - Jul 2025",
+      "subtitle": "React + Node.js + MongoDB",
+      "tags": ["React", "Node.js", "MongoDB", "AWS", "Mongoose", "SWE-fullstack"],
+      "bullets": [
+        {
+          "id": "p1.1",
+          "text": "Built a React (Vite) frontend with React Router, implementing four key routes: /login, /signup, /tasks, and a 404 page.",
+          "tags": ["React", "routing"]
+        },
+        {
+          "id": "p1.2",
+          "text": "Implemented form validation, password encryption, and auth-based navigation control on login and signup pages.",
+          "tags": ["authentication", "security", "form-validation"]
+        },
+        {
+          "id": "p1.3",
+          "text": "Designed the task UI using Shadcn UI + TailwindCSS, structuring code with a Router-Controller-Provider pattern.",
+          "tags": ["UI-design", "TailwindCSS", "design-pattern"]
+        },
+        {
+          "id": "p1.4",
+          "text": "Managed global state via Context API to keep authentication and task states consistent across components.",
+          "tags": ["state-management", "React"]
+        },
+        {
+          "id": "p1.5",
+          "text": "Applied Mongoose schema validation to enforce field types, lengths, and required values on the backend.",
+          "tags": ["MongoDB", "Mongoose", "data-validation"]
+        },
+        {
+          "id": "p1.6",
+          "text": "Deployed the application on AWS EC2, configured DNS routing via Route53, and kept it running with PM2.",
+          "tags": ["AWS", "EC2", "Route53"]
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Full-Stack Business Product Management Web App",
+      "dates": "Jun 2025 - Jul 2025",
+      "subtitle": "React + Node.js + Express + MongoDB",
+      "tags": ["React", "Node.js", "Express", "MongoDB", "Chakra UI", "SWE-fullstack"],
+      "bullets": [
+        {
+          "id": "p2.1",
+          "text": "Implemented CRUD operations via RESTful APIs, handling data validation and error management with Mongoose.",
+          "tags": ["REST-API", "CRUD", "Mongoose"]
+        },
+        {
+          "id": "p2.2",
+          "text": "Built HTTP request handling to connect frontend and backend for real-time product data retrieval.",
+          "tags": ["HTTP", "frontend-backend-integration"]
+        },
+        {
+          "id": "p2.3",
+          "text": "Enabled automatic image URL fetching for product images and a light/dark mode toggle using Chakra UI's useColorMode.",
+          "tags": ["Chakra-UI", "UX-feature"]
+        },
+        {
+          "id": "p2.4",
+          "text": "Deployed frontend and backend independently on the Render cloud platform with securely managed environment variables.",
+          "tags": ["Render", "deployment", "environment-config"]
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "LLM Engineering for AI Model Optimization",
+      "dates": "Apr 2025 - Jun 2025",
+      "subtitle": "GPT-4, Claude, Gemini, LLaMA, DeepSeek, Qwen",
+      "tags": ["LLM", "RAG", "Fine-tuning", "Gradio", "HuggingFace", "AI-agent-engineering"],
+      "bullets": [
+        {
+          "id": "p3.1",
+          "text": "Automated company brochure generation using Python, Ollama, and GPT models with Markdown and prompt templates.",
+          "tags": ["prompt-engineering", "automation", "Ollama"]
+        },
+        {
+          "id": "p3.2",
+          "text": "Implemented Gradio for multi-model interaction, supporting image generation and a customizable AI chatbot.",
+          "tags": ["Gradio", "multi-modal"]
+        },
+        {
+          "id": "p3.3",
+          "text": "Leveraged the HuggingFace API on Google Colab to benchmark open-source models for speech-to-text, achieving an 80% accuracy improvement with larger models.",
+          "tags": ["HuggingFace", "benchmarking", "speech-to-text"]
+        },
+        {
+          "id": "p3.4",
+          "text": "Optimized C++ code using GPT-4, Claude, and DeepSeek, improving execution efficiency by 60,000x.",
+          "tags": ["code-optimization", "AI-assisted-dev", "C++"]
+        },
+        {
+          "id": "p3.5",
+          "text": "Applied Chroma and FAISS for RAG pipeline optimization, enabling semantic search and retrieval-augmented response generation.",
+          "tags": ["RAG", "Chroma", "FAISS"]
+        },
+        {
+          "id": "p3.6",
+          "text": "Fine-tuned LLMs with LoRA for Amazon product price prediction, improving accuracy by 24%.",
+          "tags": ["LoRA", "fine-tuning", "regression"]
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Neural Network & Deep Learning Programming",
+      "dates": "Sep 2025 - Jan 2026",
+      "tags": ["Python", "Neural Networks", "CNN", "RNN", "LSTM", "GRU"],
+      "bullets": [
+        {
+          "id": "p4.1",
+          "text": "Built feedforward neural networks from scratch with full backpropagation, achieving 84%+ accuracy via 5-fold cross-validation.",
+          "tags": ["neural-networks", "backpropagation", "from-scratch"]
+        },
+        {
+          "id": "p4.2",
+          "text": "Trained multi-class classifiers on the Reuters Newswire dataset (46 categories), reaching 92%+ validation accuracy and 99.9% top-3 accuracy.",
+          "tags": ["classification", "NLP-dataset"]
+        },
+        {
+          "id": "p4.3",
+          "text": "Developed regression models for Boston Housing price prediction, reducing validation MAE to 2.74 with the RMSProp optimizer.",
+          "tags": ["regression", "optimizer-tuning"]
+        },
+        {
+          "id": "p4.4",
+          "text": "Built CNN classifiers with VGG16 transfer learning and data augmentation, achieving 99%+ test accuracy on image datasets.",
+          "tags": ["CNN", "transfer-learning", "computer-vision"]
+        },
+        {
+          "id": "p4.5",
+          "text": "Implemented LSTM, GRU, and Bidirectional RNN for sentiment analysis and climate time-series forecasting (420,000+ data points).",
+          "tags": ["LSTM", "GRU", "RNN"]
+        },
+        {
+          "id": "p4.6",
+          "text": "Integrated GloVe embeddings (100-dim, 6B tokens) into NLP pipelines, improving classification on limited training data.",
+          "tags": ["GloVe", "embeddings", "NLP"]
+        },
+        {
+          "id": "p4.7",
+          "text": "Combined 1D CNN with GRU for long-sequence time-series prediction, reducing model complexity while maintaining competitive MAE.",
+          "tags": ["CNN", "GRU", "hybrid-architecture"]
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "title": "MailBag - Full-Stack Email Client",
+      "dates": "Jan 2026 - Mar 2026",
+      "subtitle": "React + Node.js + TypeScript",
+      "tags": ["React", "TypeScript", "Node.js", "Express", "IMAP", "SMTP"],
+      "bullets": [
+        {
+          "id": "p5.1",
+          "text": "Built a full-stack email client with a React (TypeScript) frontend and a Node.js/Express backend.",
+          "tags": ["React", "TypeScript", "Express"]
+        },
+        {
+          "id": "p5.2",
+          "text": "Developed IMAP/SMTP workflows including compose, reply, and delete, with mailbox locking for thread-safe access.",
+          "tags": ["IMAP", "SMTP", "concurrency"]
+        },
+        {
+          "id": "p5.3",
+          "text": "Implemented 8 RESTful API endpoints (GET/POST/DELETE) with CORS middleware and async error handling.",
+          "tags": ["REST-API", "middleware", "error-handling"]
+        },
+        {
+          "id": "p5.4",
+          "text": "Integrated ImapFlow and Nodemailer for real-time IMAP connections and SMTP delivery.",
+          "tags": ["ImapFlow", "Nodemailer", "email-protocols"]
+        },
+        {
+          "id": "p5.5",
+          "text": "Built a contact management system using the NeDB embedded database with full CRUD via a Promise-based async API.",
+          "tags": ["NeDB", "CRUD", "async"]
+        },
+        {
+          "id": "p5.6",
+          "text": "Enforced strict TypeScript across frontend and backend with shared interfaces (IMessage, IMailbox, IContact) for end-to-end type safety.",
+          "tags": ["TypeScript", "type-safety", "shared-interfaces"]
+        },
+        {
+          "id": "p5.7",
+          "text": "Developed 7 modular React components with Material-UI, managing state through unified event handlers and controlled form inputs.",
+          "tags": ["React", "Material-UI", "component-design"]
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "title": "Relational Database Design & Application Development",
+      "dates": "Jan 2026 - Mar 2026",
+      "subtitle": "SQL + Python",
+      "tags": ["SQL", "SQLite", "Python", "Tkinter", "SWE-backend", "DS-analytics"],
+      "bullets": [
+        {
+          "id": "p6.1",
+          "text": "Designed a normalized 3-table relational schema (Students, Courses, Enrollments) in SQLite with composite primary keys, foreign key constraints, AUTOINCREMENT, and UNIQUE constraints.",
+          "tags": ["schema-design", "normalization", "SQLite"]
+        },
+        {
+          "id": "p6.2",
+          "text": "Built a desktop GUI application in Python Tkinter with 6 functional modules, integrating SQLite via parameterized queries to prevent SQL injection.",
+          "tags": ["Tkinter", "GUI", "SQL-injection-prevention"]
+        },
+        {
+          "id": "p6.3",
+          "text": "Wrote 50+ SQL queries across DML, DDL, and DQL, including multi-table JOINs (INNER, LEFT OUTER, SELF), UNION, and correlated/derived subqueries against a normalized accounts-payable database.",
+          "tags": ["SQL", "joins", "subqueries"]
+        },
+        {
+          "id": "p6.4",
+          "text": "Performed advanced aggregation and reporting using GROUP BY, HAVING, ROLLUP, and window functions (ROW_NUMBER, PARTITION BY) for multi-level vendor payment summaries.",
+          "tags": ["aggregation", "window-functions", "reporting"]
+        },
+        {
+          "id": "p6.5",
+          "text": "Optimized query performance through index creation and subquery-based filtering, and executed CRUD operations with cascading DELETE and conditional UPDATE across related tables.",
+          "tags": ["indexing", "query-optimization", "CRUD"]
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "title": "AI-Powered Resume Tailoring & Auto-Application Agent",
+      "dates": "Jan 2026 - Mar 2026",
+      "subtitle": "Java, Selenium, OpenAI API, PDFBox",
+      "tags": ["Java", "Selenium", "OpenAI API", "PDFBox", "AI-agent-engineering", "SWE-backend"],
+      "bullets": [
+        {
+          "id": "p7.1",
+          "text": "Built an end-to-end Java CLI agent that ingests a resume and job URL, using GPT-4o to generate an ATS-optimized resume and cover letter tailored to each job description.",
+          "tags": ["CLI-tool", "GPT-4o", "automation"]
+        },
+        {
+          "id": "p7.2",
+          "text": "Designed a multi-stage AI pipeline covering JD extraction (Selenium), structured JSON generation (GPT-4o), HTML-to-PDF rendering (Chrome headless), and cover-letter templating.",
+          "tags": ["pipeline-design", "Selenium", "PDF-generation"]
+        },
+        {
+          "id": "p7.3",
+          "text": "Implemented an iterative PDF compression algorithm that auto-scales font and layout (100% to 60%) with PDFBox page validation, guaranteeing single-page resume output.",
+          "tags": ["PDFBox", "algorithm-design", "layout-engine"]
+        },
+        {
+          "id": "p7.4",
+          "text": "Built a BrowserAgent module that executes AI-generated form instructions via Selenium to autonomously submit job applications, with human-in-the-loop fallback for CAPTCHAs.",
+          "tags": ["browser-automation", "Selenium", "agent-design"]
+        },
+        {
+          "id": "p7.5",
+          "text": "Maintained a registry of six pre-written, metrics-rich project descriptions; the AI selects the most JD-relevant subset by name, eliminating hallucinated bullet points.",
+          "tags": ["content-selection", "hallucination-mitigation"]
+        },
+        {
+          "id": "p7.6",
+          "text": "Consumed the OpenAI Chat Completions API with strict JSON-only prompts and Gson deserialization to parse nested responses into typed Java objects.",
+          "tags": ["OpenAI-API", "JSON-parsing", "Gson"]
+        }
+      ]
+    },
+    {
+      "id": "p8",
+      "title": "Professional Software Testing - E-Commerce Platform",
+      "dates": "Jan 2026 - Mar 2026",
+      "subtitle": "Java, JUnit 5, Spring Boot, MySQL",
+      "tags": ["Java", "JUnit 5", "Spring Boot", "MySQL", "Docker", "SWE-backend"],
+      "bullets": [
+        {
+          "id": "p8.1",
+          "text": "Tested a full-stack e-commerce platform (68,819 LOC, 514 Java classes) built with Spring Boot, MyBatis, and Docker.",
+          "tags": ["Spring-Boot", "large-codebase", "Docker"]
+        },
+        {
+          "id": "p8.2",
+          "text": "Applied equivalence partitioning and boundary value analysis to design 6 structured test cases for promotion product query methods.",
+          "tags": ["equivalence-partitioning", "boundary-value-analysis"]
+        },
+        {
+          "id": "p8.3",
+          "text": "Modeled the order lifecycle with a Finite State Machine (FSM), deriving test cases for state, transition, and path coverage.",
+          "tags": ["FSM", "state-modeling", "coverage"]
+        },
+        {
+          "id": "p8.4",
+          "text": "Wrote JUnit 5 tests with @SpringBootTest, @Transactional, and @Rollback to validate DAO-layer batch inserts and Elasticsearch integration.",
+          "tags": ["JUnit5", "Spring-Boot-testing", "Elasticsearch"]
+        },
+        {
+          "id": "p8.5",
+          "text": "Used static analysis (PMD, GitHub CodeQL), CI (GitHub Actions), Mockito, and Jacoco to drive white-box test coverage.",
+          "tags": ["PMD", "CodeQL", "CI-CD"]
+        }
+      ]
+    },
+    {
+      "id": "p9",
+      "title": "Movie Explorer - Android Mobile Application",
+      "dates": "Jan 2026 - Mar 2026",
+      "subtitle": "Java, Android SDK, Retrofit2, RecyclerView, Picasso",
+      "tags": ["Java", "Android SDK", "Retrofit2", "RecyclerView", "Picasso", "Mobile"],
+      "bullets": [
+        {
+          "id": "p9.1",
+          "text": "Built an Android app consuming the TMDB REST API via Retrofit2 with Gson deserialization, displaying real-time movie details.",
+          "tags": ["Retrofit2", "REST-API", "Gson"]
+        },
+        {
+          "id": "p9.2",
+          "text": "Implemented a top-rated movies list using RecyclerView with a custom ViewHolder adapter, loading poster images asynchronously with Picasso.",
+          "tags": ["RecyclerView", "Picasso", "async-loading"]
+        },
+        {
+          "id": "p9.3",
+          "text": "Designed multi-screen navigation with explicit Intents across MainActivity, MovieListActivity, and ProgramListActivity.",
+          "tags": ["Android-navigation", "Intents"]
+        },
+        {
+          "id": "p9.4",
+          "text": "Structured API integration with a dedicated MovieApiService interface, reusing a singleton Retrofit instance across activities.",
+          "tags": ["singleton-pattern", "API-service-design"]
+        },
+        {
+          "id": "p9.5",
+          "text": "Handled asynchronous API callbacks with enqueue(), logging errors on failure and updating UI on successful response.",
+          "tags": ["async-callbacks", "error-handling"]
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "title": "Cloud Security Assessment & Penetration Testing",
+      "dates": "Apr 2026 - Jun 2026",
+      "subtitle": "Wireshark, Hashcat, Kali Linux, Burp Suite, Shodan, Censys, OWASP",
+      "tags": ["Wireshark", "Hashcat", "Burp Suite", "Shodan", "Censys", "Security"],
+      "bullets": [
+        {
+          "id": "p10.1",
+          "text": "Conducted passive cloud asset reconnaissance on uci.edu via certificate transparency logs, enumerating 2,080 subdomains and mapping 410 cloud assets across AWS, GCP, Azure, and Cloudflare; identified 7 high-risk publicly exposed assets.",
+          "tags": ["recon", "attack-surface-mapping", "cloud-security"]
+        },
+        {
+          "id": "p10.2",
+          "text": "Cracked a 500K-entry LinkedIn SHA-1 breach dataset using Hashcat with wordlist and rule-based attacks, achieving a peak recovery rate of 61.32% (306,604 hashes).",
+          "tags": ["Hashcat", "password-cracking", "SHA-1"]
+        },
+        {
+          "id": "p10.3",
+          "text": "Authored a NIST SP 800-30 Rev. 1 aligned qualitative risk assessment for a simulated pharmaceutical company, identifying 10 enterprise security risks (7 HIGH) with a prioritized 0-365 day remediation roadmap.",
+          "tags": ["NIST-800-30", "risk-assessment"]
+        },
+        {
+          "id": "p10.4",
+          "text": "Exploited DOM-based Cross-Site Scripting (XSS), Broken Access Control, and Business Logic vulnerabilities on OWASP Juice Shop using Burp Suite, demonstrating session hijacking and negative-quantity order manipulation.",
+          "tags": ["Burp-Suite", "XSS", "access-control"]
+        },
+        {
+          "id": "p10.5",
+          "text": "Captured and analyzed HTTPS traffic with Wireshark to isolate TLS packet exchanges, and automated a 4-stage cloud recon pipeline in Python with zero external dependencies.",
+          "tags": ["Wireshark", "TLS-analysis", "automation"]
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "title": "Agentic AI Engineering",
+      "dates": "May 2026 - Jul 2026",
+      "subtitle": "OpenAI Agents SDK | CrewAI | LangGraph | AutoGen | MCP",
+      "tags": ["OpenAI Agents SDK", "CrewAI", "LangGraph", "MCP", "Pydantic", "AI-agent-engineering"],
+      "bullets": [
+        {
+          "id": "p11.1",
+          "text": "Built a multi-agent deep research pipeline using OpenAI Agents SDK (Planner -> Search -> Writer -> Email), enabling parallel web search, structured report generation, and automated delivery via SendGrid.",
+          "tags": ["OpenAI-Agents-SDK", "multi-agent", "pipeline-design"]
+        },
+        {
+          "id": "p11.2",
+          "text": "Developed an AI-powered career assistant with Gradio, integrating LinkedIn PDF parsing, function calling, and Pushover notifications for lead tracking.",
+          "tags": ["Gradio", "function-calling", "PDF-parsing"]
+        },
+        {
+          "id": "p11.3",
+          "text": "Designed and implemented five multi-agent systems with CrewAI, including debate adjudication, financial research, news-driven stock analysis, autonomous coding, and an AI software engineering team.",
+          "tags": ["CrewAI", "multi-agent-systems"]
+        },
+        {
+          "id": "p11.4",
+          "text": "Built Sidekick, a personal AI collaborator powered by LangGraph, featuring Worker-Evaluator feedback loops, Playwright browser automation, and tool orchestration.",
+          "tags": ["LangGraph", "worker-evaluator", "Playwright"]
+        },
+        {
+          "id": "p11.5",
+          "text": "Developed an autonomous trading simulation platform based on the Model Context Protocol (MCP), including custom FastMCP servers for account management, market data, and notifications; integrated OpenAI Agents SDK, SQLite persistence, and a Gradio dashboard.",
+          "tags": ["MCP", "FastMCP", "trading-simulation"]
+        },
+        {
+          "id": "p11.6",
+          "text": "Applied advanced agent engineering patterns including handoffs, input guardrails, structured outputs with Pydantic, hierarchical delegation, and checkpoint-based memory.",
+          "tags": ["guardrails", "Pydantic", "agent-patterns"]
+        },
+        {
+          "id": "p11.7",
+          "text": "Integrated 20+ external services and APIs (SendGrid, Pushover, Serper, Polygon, Playwright, ChromaDB), supporting seamless switching across OpenAI, Anthropic, Gemini, Grok, and DeepSeek.",
+          "tags": ["API-integration", "multi-provider-LLM"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2675 @@
+{
+  "meta": {
+    "name": "Xin Zhou",
+    "location": "Irvine, California, 92617",
+    "phone": "(949)738-7740",
+    "email": "xin.zhou.dev@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/xin-zhou-dev",
+    "github": "https://github.com/xinzhoudev",
+    "work_authorization_line": "Authorized to work for any U.S. employer without sponsorship (Asylee status); protected under 8 USC 1324b(a)(3)."
+  },
+  "education": [
+    {
+      "id": "edu-uci-msweg",
+      "school": "University of California, Irvine",
+      "degree": "Master of Software Engineering",
+      "dates": "Sep 2025 - Dec 2026",
+      "tags": [
+        "SWE",
+        "DS",
+        "AI-agent-engineering",
+        "Security"
+      ]
+    },
+    {
+      "id": "edu-sufe-bs",
+      "school": "Shanghai University of Finance and Economics",
+      "degree": "Bachelor of Computer Science & Finance",
+      "dates": "Sep 2014 - Jul 2018",
+      "tags": [
+        "SWE",
+        "DS",
+        "Finance"
+      ]
+    }
+  ],
+  "coursework": [
+    {
+      "id": "cw-concurrent",
+      "name": "Concurrent Programming",
+      "tags": [
+        "SWE-backend",
+        "distributed-systems"
+      ]
+    },
+    {
+      "id": "cw-dsa",
+      "name": "Data Structure & Algorithm",
+      "tags": [
+        "SWE",
+        "DS",
+        "fundamentals"
+      ]
+    },
+    {
+      "id": "cw-network-prog",
+      "name": "Network Programming",
+      "tags": [
+        "SWE-backend",
+        "networking"
+      ]
+    },
+    {
+      "id": "cw-gui",
+      "name": "GUI Programming",
+      "tags": [
+        "SWE-fullstack",
+        "ui"
+      ]
+    },
+    {
+      "id": "cw-neural-net",
+      "name": "Neural Network Programming",
+      "tags": [
+        "DS-ML",
+        "deep-learning"
+      ]
+    },
+    {
+      "id": "cw-prog-styles",
+      "name": "Programming Styles",
+      "tags": [
+        "SWE",
+        "software-craft"
+      ]
+    },
+    {
+      "id": "cw-dist-arch",
+      "name": "Distributed Software Architecture",
+      "tags": [
+        "SWE-backend",
+        "distributed-systems",
+        "architecture"
+      ]
+    },
+    {
+      "id": "cw-debug-test",
+      "name": "Software Debugging & Testing",
+      "tags": [
+        "SWE",
+        "testing",
+        "quality"
+      ]
+    },
+    {
+      "id": "cw-db-prog",
+      "name": "Database Programming",
+      "tags": [
+        "SWE-backend",
+        "DS",
+        "database"
+      ]
+    },
+    {
+      "id": "cw-web-prog",
+      "name": "Web Programming",
+      "tags": [
+        "SWE-fullstack",
+        "web"
+      ]
+    },
+    {
+      "id": "cw-principles-computers",
+      "name": "Principles of Computers",
+      "tags": [
+        "fundamentals"
+      ]
+    },
+    {
+      "id": "cw-os",
+      "name": "Operating System",
+      "tags": [
+        "SWE-backend",
+        "systems",
+        "fundamentals"
+      ]
+    },
+    {
+      "id": "cw-computer-network",
+      "name": "Computer Network",
+      "tags": [
+        "SWE-backend",
+        "networking",
+        "fundamentals"
+      ]
+    },
+    {
+      "id": "cw-db-principles",
+      "name": "Database Principles",
+      "tags": [
+        "SWE-backend",
+        "DS",
+        "database",
+        "fundamentals"
+      ]
+    },
+    {
+      "id": "cw-isad",
+      "name": "Information System Analysis and Design",
+      "tags": [
+        "SWE",
+        "analysis"
+      ]
+    },
+    {
+      "id": "cw-oop",
+      "name": "Object-Oriented Programming Design",
+      "tags": [
+        "SWE",
+        "fundamentals"
+      ]
+    },
+    {
+      "id": "cw-cloud-sec",
+      "name": "Cloud Security Foundation",
+      "tags": [
+        "Security",
+        "cloud"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "id": "sk-java",
+      "name": "Java",
+      "category": "Programming Language",
+      "tags": [
+        "SWE-backend",
+        "SWE-fullstack"
+      ],
+      "ats_keywords": [
+        "Java",
+        "Backend Development",
+        "Back-End Development",
+        "Server-Side Development",
+        "Full-Stack Development",
+        "Full Stack Engineer",
+        "Backend Engineering",
+        "Full-Stack Engineer",
+        "Full Stack Development"
+      ]
+    },
+    {
+      "id": "sk-python",
+      "name": "Python",
+      "category": "Programming Language",
+      "tags": [
+        "SWE",
+        "DS-ML",
+        "DS-analytics",
+        "AI-agent-engineering"
+      ],
+      "ats_keywords": [
+        "Python",
+        "SWE",
+        "Machine Learning",
+        "Data Science",
+        "Data Analytics",
+        "AI Agent Engineering",
+        "Agentic AI",
+        "Software Engineer",
+        "Software Engineering",
+        "ML",
+        "Machine Learning Engineering",
+        "Data Scientist",
+        "DS",
+        "Data Analysis",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "sk-sql",
+      "name": "SQL",
+      "category": "Programming Language",
+      "tags": [
+        "SWE-backend",
+        "DS-analytics",
+        "database"
+      ],
+      "ats_keywords": [
+        "SQL",
+        "Backend Development",
+        "Back-End Development",
+        "Server-Side Development",
+        "Data Analytics",
+        "Data Science",
+        "Database",
+        "Database Management",
+        "Backend Engineering",
+        "Data Analysis",
+        "Analytics",
+        "Data Scientist",
+        "DS",
+        "DBMS",
+        "Database Administration"
+      ]
+    },
+    {
+      "id": "sk-cpp",
+      "name": "C/C++",
+      "category": "Programming Language",
+      "tags": [
+        "SWE-backend",
+        "systems"
+      ],
+      "ats_keywords": [
+        "C/C++",
+        "Backend Development",
+        "Back-End Development",
+        "Server-Side Development",
+        "Systems Programming",
+        "Backend Engineering",
+        "C++",
+        "CPP"
+      ]
+    },
+    {
+      "id": "sk-html",
+      "name": "HTML",
+      "category": "Programming Language",
+      "tags": [
+        "SWE-fullstack",
+        "web"
+      ],
+      "ats_keywords": [
+        "HTML",
+        "Full-Stack Development",
+        "Full Stack Engineer",
+        "Web",
+        "Full-Stack Engineer",
+        "Full Stack Development"
+      ]
+    },
+    {
+      "id": "sk-css",
+      "name": "CSS",
+      "category": "Programming Language",
+      "tags": [
+        "SWE-fullstack",
+        "web"
+      ],
+      "ats_keywords": [
+        "CSS",
+        "Full-Stack Development",
+        "Full Stack Engineer",
+        "Web",
+        "Full-Stack Engineer",
+        "Full Stack Development"
+      ]
+    },
+    {
+      "id": "sk-js",
+      "name": "JavaScript",
+      "category": "Programming Language",
+      "tags": [
+        "SWE-fullstack",
+        "web"
+      ],
+      "ats_keywords": [
+        "JavaScript",
+        "Full-Stack Development",
+        "Full Stack Engineer",
+        "Web",
+        "Full-Stack Engineer",
+        "Full Stack Development"
+      ]
+    },
+    {
+      "id": "sk-ts",
+      "name": "TypeScript",
+      "category": "Programming Language",
+      "tags": [
+        "SWE-fullstack",
+        "web"
+      ],
+      "ats_keywords": [
+        "TypeScript",
+        "Full-Stack Development",
+        "Full Stack Engineer",
+        "Web",
+        "Full-Stack Engineer",
+        "Full Stack Development"
+      ]
+    },
+    {
+      "id": "sk-docker",
+      "name": "Docker",
+      "category": "Dev Tools",
+      "tags": [
+        "SWE-backend",
+        "devops"
+      ],
+      "ats_keywords": [
+        "Docker",
+        "Backend Development",
+        "Back-End Development",
+        "Server-Side Development",
+        "DevOps",
+        "Backend Engineering"
+      ]
+    },
+    {
+      "id": "sk-github",
+      "name": "GitHub",
+      "category": "Dev Tools",
+      "tags": [
+        "SWE",
+        "version-control"
+      ],
+      "ats_keywords": [
+        "GitHub",
+        "SWE",
+        "Version Control",
+        "Git",
+        "Software Engineer",
+        "Software Engineering",
+        "Source Control"
+      ]
+    },
+    {
+      "id": "sk-linux",
+      "name": "Linux / Unix",
+      "category": "Dev Tools",
+      "tags": [
+        "SWE-backend",
+        "systems"
+      ],
+      "ats_keywords": [
+        "Linux / Unix",
+        "Backend Development",
+        "Back-End Development",
+        "Server-Side Development",
+        "Systems Programming",
+        "Backend Engineering"
+      ]
+    },
+    {
+      "id": "sk-vim",
+      "name": "Vim",
+      "category": "Dev Tools",
+      "tags": [
+        "SWE"
+      ],
+      "ats_keywords": [
+        "Vim",
+        "SWE",
+        "Software Engineer",
+        "Software Engineering"
+      ]
+    },
+    {
+      "id": "sk-git",
+      "name": "Git",
+      "category": "Dev Tools",
+      "tags": [
+        "SWE",
+        "version-control"
+      ],
+      "ats_keywords": [
+        "Git",
+        "SWE",
+        "Version Control",
+        "Software Engineer",
+        "Software Engineering",
+        "Source Control"
+      ]
+    },
+    {
+      "id": "sk-vscode",
+      "name": "VS Code",
+      "category": "Dev Tools",
+      "tags": [
+        "SWE"
+      ],
+      "ats_keywords": [
+        "VS Code",
+        "SWE",
+        "Software Engineer",
+        "Software Engineering"
+      ]
+    },
+    {
+      "id": "sk-aws-deploy",
+      "name": "AWS Deployment (EC2, Route53)",
+      "category": "Dev Tools",
+      "tags": [
+        "SWE-backend",
+        "cloud",
+        "devops"
+      ],
+      "ats_keywords": [
+        "AWS Deployment (EC2, Route53)",
+        "Backend Development",
+        "Back-End Development",
+        "Server-Side Development",
+        "Cloud",
+        "DevOps",
+        "Backend Engineering"
+      ]
+    },
+    {
+      "id": "sk-npm",
+      "name": "NPM",
+      "category": "Dev Tools",
+      "tags": [
+        "SWE-fullstack",
+        "web"
+      ],
+      "ats_keywords": [
+        "NPM",
+        "Full-Stack Development",
+        "Full Stack Engineer",
+        "Web",
+        "Full-Stack Engineer",
+        "Full Stack Development"
+      ]
+    },
+    {
+      "id": "sk-react",
+      "name": "React (Vite)",
+      "category": "Web Framework",
+      "tags": [
+        "SWE-fullstack",
+        "web"
+      ],
+      "ats_keywords": [
+        "React (Vite)",
+        "Full-Stack Development",
+        "Full Stack Engineer",
+        "Web",
+        "Full-Stack Engineer",
+        "Full Stack Development"
+      ]
+    },
+    {
+      "id": "sk-tailwind",
+      "name": "TailwindCSS",
+      "category": "Web Framework",
+      "tags": [
+        "SWE-fullstack",
+        "web",
+        "ui"
+      ],
+      "ats_keywords": [
+        "TailwindCSS",
+        "Full-Stack Development",
+        "Full Stack Engineer",
+        "Web",
+        "Ui",
+        "Full-Stack Engineer",
+        "Full Stack Development"
+      ]
+    },
+    {
+      "id": "sk-express",
+      "name": "Express",
+      "category": "Web Framework",
+      "tags": [
+        "SWE-backend",
+        "web"
+      ],
+      "ats_keywords": [
+        "Express",
+        "Backend Development",
+        "Back-End Development",
+        "Server-Side Development",
+        "Web",
+        "Backend Engineering"
+      ]
+    },
+    {
+      "id": "sk-nodejs",
+      "name": "Node.js",
+      "category": "Web Framework",
+      "tags": [
+        "SWE-backend",
+        "web"
+      ],
+      "ats_keywords": [
+        "Node.js",
+        "Backend Development",
+        "Back-End Development",
+        "Server-Side Development",
+        "Web",
+        "Backend Engineering",
+        "NodeJS",
+        "Node"
+      ]
+    },
+    {
+      "id": "sk-mongodb",
+      "name": "MongoDB",
+      "category": "Web Framework",
+      "tags": [
+        "SWE-backend",
+        "database"
+      ],
+      "ats_keywords": [
+        "MongoDB",
+        "Backend Development",
+        "Back-End Development",
+        "Server-Side Development",
+        "Database",
+        "Database Management",
+        "Backend Engineering",
+        "DBMS",
+        "Database Administration"
+      ]
+    },
+    {
+      "id": "sk-mysql",
+      "name": "MySQL",
+      "category": "Web Framework",
+      "tags": [
+        "SWE-backend",
+        "database"
+      ],
+      "ats_keywords": [
+        "MySQL",
+        "Backend Development",
+        "Back-End Development",
+        "Server-Side Development",
+        "Database",
+        "Database Management",
+        "Backend Engineering",
+        "DBMS",
+        "Database Administration"
+      ]
+    },
+    {
+      "id": "sk-junit",
+      "name": "JUnit Test",
+      "category": "Software Testing",
+      "tags": [
+        "SWE",
+        "testing"
+      ],
+      "ats_keywords": [
+        "JUnit Test",
+        "SWE",
+        "Software Testing",
+        "QA",
+        "Software Engineer",
+        "Software Engineering",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "id": "sk-partition-test",
+      "name": "Partitioning / Boundary Value Testing",
+      "category": "Software Testing",
+      "tags": [
+        "SWE",
+        "testing"
+      ],
+      "ats_keywords": [
+        "Partitioning / Boundary Value Testing",
+        "SWE",
+        "Software Testing",
+        "QA",
+        "Software Engineer",
+        "Software Engineering",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "id": "sk-blackbox",
+      "name": "Black-box Testing",
+      "category": "Software Testing",
+      "tags": [
+        "SWE",
+        "testing"
+      ],
+      "ats_keywords": [
+        "Black-box Testing",
+        "SWE",
+        "Software Testing",
+        "QA",
+        "Software Engineer",
+        "Software Engineering",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "id": "sk-whitebox",
+      "name": "White-box Testing",
+      "category": "Software Testing",
+      "tags": [
+        "SWE",
+        "testing"
+      ],
+      "ats_keywords": [
+        "White-box Testing",
+        "SWE",
+        "Software Testing",
+        "QA",
+        "Software Engineer",
+        "Software Engineering",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "id": "sk-static-analyzer",
+      "name": "Static Analysis (PMD, CodeQL)",
+      "category": "Software Testing",
+      "tags": [
+        "SWE",
+        "testing",
+        "code-quality"
+      ],
+      "ats_keywords": [
+        "Static Analysis (PMD, CodeQL)",
+        "SWE",
+        "Software Testing",
+        "QA",
+        "Code Quality",
+        "Software Engineer",
+        "Software Engineering",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "id": "sk-cicd",
+      "name": "CI/CD (GitHub Actions)",
+      "category": "Software Testing",
+      "tags": [
+        "SWE",
+        "devops",
+        "testing"
+      ],
+      "ats_keywords": [
+        "CI/CD (GitHub Actions)",
+        "SWE",
+        "DevOps",
+        "Software Testing",
+        "QA",
+        "Software Engineer",
+        "Software Engineering",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "id": "sk-wireshark",
+      "name": "Wireshark",
+      "category": "Cloud Security",
+      "tags": [
+        "Security"
+      ],
+      "ats_keywords": [
+        "Wireshark",
+        "Security"
+      ]
+    },
+    {
+      "id": "sk-hashcat",
+      "name": "Hashcat",
+      "category": "Cloud Security",
+      "tags": [
+        "Security"
+      ],
+      "ats_keywords": [
+        "Hashcat",
+        "Security"
+      ]
+    },
+    {
+      "id": "sk-kali",
+      "name": "Kali Linux",
+      "category": "Cloud Security",
+      "tags": [
+        "Security"
+      ],
+      "ats_keywords": [
+        "Kali Linux",
+        "Security"
+      ]
+    },
+    {
+      "id": "sk-burp",
+      "name": "Burp Suite",
+      "category": "Cloud Security",
+      "tags": [
+        "Security"
+      ],
+      "ats_keywords": [
+        "Burp Suite",
+        "Security"
+      ]
+    },
+    {
+      "id": "sk-shodan",
+      "name": "Shodan",
+      "category": "Cloud Security",
+      "tags": [
+        "Security"
+      ],
+      "ats_keywords": [
+        "Shodan",
+        "Security"
+      ]
+    },
+    {
+      "id": "sk-censys",
+      "name": "Censys",
+      "category": "Cloud Security",
+      "tags": [
+        "Security"
+      ],
+      "ats_keywords": [
+        "Censys",
+        "Security"
+      ]
+    },
+    {
+      "id": "sk-owasp",
+      "name": "OWASP",
+      "category": "Cloud Security",
+      "tags": [
+        "Security"
+      ],
+      "ats_keywords": [
+        "OWASP",
+        "Security"
+      ]
+    },
+    {
+      "id": "sk-figma",
+      "name": "Figma",
+      "category": "UX/UI",
+      "tags": [
+        "SWE-fullstack",
+        "design"
+      ],
+      "ats_keywords": [
+        "Figma",
+        "Full-Stack Development",
+        "Full Stack Engineer",
+        "Design",
+        "Full-Stack Engineer",
+        "Full Stack Development"
+      ]
+    },
+    {
+      "id": "sk-mobile-design",
+      "name": "Mobile App Design",
+      "category": "UX/UI",
+      "tags": [
+        "Mobile",
+        "design"
+      ],
+      "ats_keywords": [
+        "Mobile App Design",
+        "Mobile",
+        "Design"
+      ]
+    },
+    {
+      "id": "sk-openai-sdk",
+      "name": "OpenAI SDK / Agents SDK",
+      "category": "AI/LLM Engineering",
+      "tags": [
+        "AI-agent-engineering",
+        "DS-ML"
+      ],
+      "ats_keywords": [
+        "OpenAI SDK / Agents SDK",
+        "AI Agent Engineering",
+        "Agentic AI",
+        "Machine Learning",
+        "Data Science",
+        "ML",
+        "Machine Learning Engineering",
+        "Data Scientist",
+        "DS"
+      ]
+    },
+    {
+      "id": "sk-crewai",
+      "name": "CrewAI",
+      "category": "AI/LLM Engineering",
+      "tags": [
+        "AI-agent-engineering"
+      ],
+      "ats_keywords": [
+        "CrewAI",
+        "AI Agent Engineering",
+        "Agentic AI"
+      ]
+    },
+    {
+      "id": "sk-langchain",
+      "name": "LangChain",
+      "category": "AI/LLM Engineering",
+      "tags": [
+        "AI-agent-engineering",
+        "DS-ML"
+      ],
+      "ats_keywords": [
+        "LangChain",
+        "AI Agent Engineering",
+        "Agentic AI",
+        "Machine Learning",
+        "Data Science",
+        "ML",
+        "Machine Learning Engineering",
+        "Data Scientist",
+        "DS"
+      ]
+    },
+    {
+      "id": "sk-langgraph",
+      "name": "LangGraph",
+      "category": "AI/LLM Engineering",
+      "tags": [
+        "AI-agent-engineering"
+      ],
+      "ats_keywords": [
+        "LangGraph",
+        "AI Agent Engineering",
+        "Agentic AI"
+      ]
+    },
+    {
+      "id": "sk-langsmith",
+      "name": "LangSmith",
+      "category": "AI/LLM Engineering",
+      "tags": [
+        "AI-agent-engineering"
+      ],
+      "ats_keywords": [
+        "LangSmith",
+        "AI Agent Engineering",
+        "Agentic AI"
+      ]
+    },
+    {
+      "id": "sk-mcp",
+      "name": "MCP (Model Context Protocol)",
+      "category": "AI/LLM Engineering",
+      "tags": [
+        "AI-agent-engineering"
+      ],
+      "ats_keywords": [
+        "MCP (Model Context Protocol)",
+        "AI Agent Engineering",
+        "Agentic AI"
+      ]
+    },
+    {
+      "id": "sk-rag",
+      "name": "RAG (Chroma, FAISS)",
+      "category": "AI/LLM Engineering",
+      "tags": [
+        "AI-agent-engineering",
+        "DS-ML"
+      ],
+      "ats_keywords": [
+        "RAG (Chroma, FAISS)",
+        "AI Agent Engineering",
+        "Agentic AI",
+        "Machine Learning",
+        "Data Science",
+        "ML",
+        "Machine Learning Engineering",
+        "Data Scientist",
+        "DS"
+      ]
+    },
+    {
+      "id": "sk-lora",
+      "name": "LoRA Fine-tuning",
+      "category": "AI/LLM Engineering",
+      "tags": [
+        "DS-ML",
+        "AI-agent-engineering"
+      ],
+      "ats_keywords": [
+        "LoRA Fine-tuning",
+        "Machine Learning",
+        "Data Science",
+        "AI Agent Engineering",
+        "Agentic AI",
+        "ML",
+        "Machine Learning Engineering",
+        "Data Scientist",
+        "DS"
+      ]
+    },
+    {
+      "id": "sk-ai-tools",
+      "name": "Claude Code / Codex / ChatGPT (AI-assisted dev)",
+      "category": "AI/LLM Engineering",
+      "tags": [
+        "SWE",
+        "AI-agent-engineering"
+      ],
+      "ats_keywords": [
+        "Claude Code / Codex / ChatGPT (AI-assisted dev)",
+        "SWE",
+        "AI Agent Engineering",
+        "Agentic AI",
+        "Software Engineer",
+        "Software Engineering"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-industrial-bank",
+      "title": "Data Analyst (Python, SAS, SQL)",
+      "organization": "Industrial Bank - Credit Card Center (Fortune Global 500)",
+      "location": "Shanghai, China",
+      "dates": "Jul 2020 - Oct 2023",
+      "employment_type": "Full-time",
+      "primary_tech": [
+        "Python",
+        "SAS",
+        "SQL",
+        "Machine Learning",
+        "Statistics"
+      ],
+      "role_relevance": [
+        "DS-ML",
+        "DS-analytics"
+      ],
+      "bullets": [
+        {
+          "id": "b-bank-1",
+          "text": "Built a champion-challenger credit scoring framework on 30M+ customer records; reduced feature space from 250+ variables to 18 high-IV predictors via WOE and IV selection, achieving KS of 0.47 on holdout test set.",
+          "tags": [
+            "feature-selection",
+            "credit-scoring",
+            "WOE-IV",
+            "big-data"
+          ],
+          "theme": "feature-engineering",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Feature Selection",
+            "Credit Scoring",
+            "WOE IV",
+            "Big Data"
+          ]
+        },
+        {
+          "id": "b-bank-2",
+          "text": "Engineered an ensemble model (Decision Tree, Support Vector Machine (SVM), Logistic Regression, LSTM, DSN) with boosting and bagging, improving KS from 0.47 to 0.52 over the logistic regression baseline while maintaining PSI < 0.1 for population stability.",
+          "tags": [
+            "ensemble-modeling",
+            "machine-learning",
+            "model-stability"
+          ],
+          "theme": "modeling",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Ensemble Modeling",
+            "Machine Learning",
+            "ML",
+            "Model Stability",
+            "Machine Learning Engineering"
+          ]
+        },
+        {
+          "id": "b-bank-3",
+          "text": "Developed a seasonally adjusted ARIMA model incorporating macroeconomic indicators (vehicle sales, commodity indices) to forecast credit card overdrafts; achieved 27-day MAE of 0.07%, directly supporting risk provisioning decisions.",
+          "tags": [
+            "time-series",
+            "ARIMA",
+            "forecasting"
+          ],
+          "theme": "forecasting",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Time Series",
+            "ARIMA",
+            "Forecasting"
+          ]
+        },
+        {
+          "id": "b-bank-4",
+          "text": "Conducted statistical validation (T-test, KS-test, Chi-square, p < 0.05) on risk data pipelines, passing acceptance criteria for a FICO bidding project.",
+          "tags": [
+            "statistical-testing",
+            "data-validation"
+          ],
+          "theme": "validation",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "Statistical Testing",
+            "Data Validation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exp-uci-irap",
+      "title": "AI-Agent Intern, Automated Institutional Research Reporting (Paid)",
+      "organization": "University of California, Irvine - Institutional Research, Assessment, and Planning",
+      "location": "Irvine, California",
+      "dates": "Jun 2026 - Jul 2026",
+      "employment_type": "Internship",
+      "primary_tech": [
+        "Python",
+        "LLM",
+        "JSON Schema",
+        "DOCX Generation"
+      ],
+      "role_relevance": [
+        "AI-agent-engineering",
+        "DS-analytics",
+        "SWE-backend"
+      ],
+      "bullets": [
+        {
+          "id": "b-irap-1",
+          "text": "Designed reusable notebooks and Python modules to aggregate multi-year admissions/enrollment/graduation KPIs from standardized Institutional Research (IR) report files.",
+          "tags": [
+            "data-pipeline",
+            "python",
+            "reporting-automation"
+          ],
+          "theme": "data-pipeline",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Data Pipeline",
+            "Python",
+            "Reporting Automation"
+          ]
+        },
+        {
+          "id": "b-irap-2",
+          "text": "Connected aggregated payloads to an enterprise Large Language Model (LLM) gateway (ZotGPT) for consistent, parseable narrative generation.",
+          "tags": [
+            "LLM-integration",
+            "enterprise-ai"
+          ],
+          "theme": "integration",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "LLM Integration",
+            "Large Language Model Integration",
+            "Enterprise Ai"
+          ]
+        },
+        {
+          "id": "b-irap-3",
+          "text": "Delivered publication-style DOCX reports with embedded visualizations and placeholder-driven layout for local data injection.",
+          "tags": [
+            "docx-automation",
+            "reporting"
+          ],
+          "theme": "output-generation",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "Docx Automation",
+            "Reporting"
+          ]
+        },
+        {
+          "id": "b-irap-4",
+          "text": "Engineered 8 domain-specific system prompts with strict JSON-only output and faculty discussion-question templates; integrated structured outputs via JSON schema and tool calling.",
+          "tags": [
+            "prompt-engineering",
+            "structured-output",
+            "json-schema",
+            "tool-calling"
+          ],
+          "theme": "prompt-engineering",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Prompt Engineering",
+            "Structured Output",
+            "JSON Schema",
+            "Function Calling",
+            "Tool Calling",
+            "Prompt Design",
+            "Prompt Optimization"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exp-uci-it-php",
+      "title": "Software Engineering Intern - Legacy PHP Platform Modernization (Paid)",
+      "organization": "University of California, Irvine - IT Department",
+      "location": "Irvine, California",
+      "dates": "Jun 2026 - Jul 2026",
+      "employment_type": "Internship",
+      "primary_tech": [
+        "PHP",
+        "PDO",
+        "Python",
+        "SQL",
+        "LLM-assisted refactoring"
+      ],
+      "role_relevance": [
+        "SWE-backend",
+        "AI-agent-engineering",
+        "Security"
+      ],
+      "bullets": [
+        {
+          "id": "b-phpit-1",
+          "text": "Migrated an 11,315-modification legacy PHP web application from deprecated mysql_*/mysqli APIs to PDO with prepared statements to improve security and PHP runtime compatibility.",
+          "tags": [
+            "legacy-migration",
+            "PHP",
+            "SQL-injection-prevention",
+            "large-scale-refactor"
+          ],
+          "theme": "migration",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Legacy Migration",
+            "PHP",
+            "SQL Injection Prevention",
+            "SQL Injection",
+            "Large Scale Refactor",
+            "SQLi Prevention"
+          ]
+        },
+        {
+          "id": "b-phpit-2",
+          "text": "Built a Python static analyzer to extract multi-line SQL/query blocks with accurate line numbers and per-file JSON manifests for scoped refactoring.",
+          "tags": [
+            "static-analysis",
+            "python",
+            "tooling"
+          ],
+          "theme": "tooling",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Static Code Analysis",
+            "Static Analysis",
+            "Python",
+            "Tooling"
+          ]
+        },
+        {
+          "id": "b-phpit-3",
+          "text": "Implemented an LLM-assisted patch pipeline (12 codified rewrite rules) that applies line-level diffs bottom-up and logs failures for manual review.",
+          "tags": [
+            "LLM-assisted-refactoring",
+            "automation",
+            "pipeline"
+          ],
+          "theme": "automation",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "LLM-Assisted Refactoring",
+            "Automation",
+            "Pipeline"
+          ]
+        },
+        {
+          "id": "b-phpit-4",
+          "text": "Generated a consolidated PHP verification harness to compare SELECT result sets before/after migration, ensuring behavioral equivalence at scale.",
+          "tags": [
+            "testing",
+            "verification",
+            "regression-testing"
+          ],
+          "theme": "testing",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "Software Testing",
+            "QA",
+            "Verification",
+            "Regression Testing",
+            "Quality Assurance"
+          ]
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-fullstack-taskmanager",
+      "title": "Full-Stack Development Task Management",
+      "subtitle": "React + Node.js + MongoDB",
+      "links": {
+        "type": "Github, Production"
+      },
+      "dates": "May 2025 - Jul 2025",
+      "primary_tech": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "AWS",
+        "Mongoose"
+      ],
+      "role_relevance": [
+        "SWE-fullstack"
+      ],
+      "bullets": [
+        {
+          "id": "b-task-1",
+          "text": "Built a React (Vite) frontend with React Router, implementing four key routes: /login, /signup, /tasks, and a 404 page.",
+          "tags": [
+            "React",
+            "routing"
+          ],
+          "theme": "architecture",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "React",
+            "React.js",
+            "Routing",
+            "ReactJS"
+          ]
+        },
+        {
+          "id": "b-task-2",
+          "text": "Implemented form validation, password encryption, and auth-based navigation control on login and signup pages.",
+          "tags": [
+            "authentication",
+            "security",
+            "form-validation"
+          ],
+          "theme": "security",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Authentication",
+            "Security",
+            "Form Validation"
+          ]
+        },
+        {
+          "id": "b-task-3",
+          "text": "Designed the task UI using Shadcn UI + TailwindCSS, structuring code with a Router-Controller-Provider pattern.",
+          "tags": [
+            "UI-design",
+            "TailwindCSS",
+            "design-pattern"
+          ],
+          "theme": "ui-ux",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "UI Design",
+            "TailwindCSS",
+            "Design Pattern"
+          ]
+        },
+        {
+          "id": "b-task-4",
+          "text": "Managed global state via Context API to keep authentication and task states consistent across components.",
+          "tags": [
+            "state-management",
+            "React"
+          ],
+          "theme": "state-management",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "State Management",
+            "React",
+            "React.js",
+            "ReactJS"
+          ]
+        },
+        {
+          "id": "b-task-5",
+          "text": "Applied Mongoose schema validation to enforce field types, lengths, and required values on the backend.",
+          "tags": [
+            "MongoDB",
+            "Mongoose",
+            "data-validation"
+          ],
+          "theme": "data-integrity",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "MongoDB",
+            "Mongoose",
+            "Data Validation"
+          ]
+        },
+        {
+          "id": "b-task-6",
+          "text": "Deployed the application on AWS EC2, configured DNS routing via Route53, and kept it running with PM2.",
+          "tags": [
+            "AWS",
+            "EC2",
+            "Route53",
+            "deployment"
+          ],
+          "theme": "deployment",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "AWS",
+            "EC2",
+            "Route53",
+            "Deployment",
+            "Amazon Web Services"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proj-bizmgmt-crud",
+      "title": "Full-Stack Business Product Management Web App",
+      "subtitle": "React + Node.js + Express + MongoDB",
+      "links": {
+        "type": "Github"
+      },
+      "dates": "Jun 2025 - Jul 2025",
+      "primary_tech": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Chakra UI"
+      ],
+      "role_relevance": [
+        "SWE-fullstack"
+      ],
+      "bullets": [
+        {
+          "id": "b-biz-1",
+          "text": "Implemented CRUD operations via RESTful APIs, handling data validation and error management with Mongoose.",
+          "tags": [
+            "REST-API",
+            "CRUD",
+            "Mongoose"
+          ],
+          "theme": "architecture",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "RESTful API",
+            "REST API",
+            "CRUD",
+            "Mongoose",
+            "REST",
+            "RESTful APIs",
+            "RESTful Web Services"
+          ]
+        },
+        {
+          "id": "b-biz-2",
+          "text": "Built HTTP request handling to connect frontend and backend for real-time product data retrieval.",
+          "tags": [
+            "HTTP",
+            "frontend-backend-integration"
+          ],
+          "theme": "integration",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "HTTP",
+            "Frontend Backend Integration"
+          ]
+        },
+        {
+          "id": "b-biz-3",
+          "text": "Enabled automatic image URL fetching for product images and a light/dark mode toggle using Chakra UI's useColorMode.",
+          "tags": [
+            "Chakra-UI",
+            "UX-feature"
+          ],
+          "theme": "ui-ux",
+          "impact_tier": 3,
+          "ats_keywords": [
+            "Chakra UI",
+            "UX Feature"
+          ]
+        },
+        {
+          "id": "b-biz-4",
+          "text": "Deployed frontend and backend independently on the Render cloud platform with securely managed environment variables.",
+          "tags": [
+            "Render",
+            "deployment",
+            "environment-config"
+          ],
+          "theme": "deployment",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "Render",
+            "Deployment",
+            "Environment Config"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proj-llm-engineering",
+      "title": "LLM Engineering for AI Model Optimization",
+      "subtitle": "GPT-4, Claude, Gemini, LLaMA, DeepSeek, Qwen",
+      "links": {},
+      "dates": "Apr 2025 - Jun 2025",
+      "primary_tech": [
+        "LLM",
+        "RAG",
+        "Fine-tuning",
+        "Gradio",
+        "HuggingFace"
+      ],
+      "role_relevance": [
+        "AI-agent-engineering",
+        "DS-ML"
+      ],
+      "bullets": [
+        {
+          "id": "b-llm-1",
+          "text": "Automated company brochure generation using Python, Ollama, and GPT models with Markdown and prompt templates.",
+          "tags": [
+            "prompt-engineering",
+            "automation",
+            "Ollama"
+          ],
+          "theme": "automation",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "Prompt Engineering",
+            "Automation",
+            "Ollama",
+            "Prompt Design",
+            "Prompt Optimization"
+          ]
+        },
+        {
+          "id": "b-llm-2",
+          "text": "Implemented Gradio for multi-model interaction, supporting image generation and a customizable AI chatbot.",
+          "tags": [
+            "Gradio",
+            "multi-modal"
+          ],
+          "theme": "ui-ux",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "Gradio",
+            "Multi Modal"
+          ]
+        },
+        {
+          "id": "b-llm-3",
+          "text": "Leveraged the HuggingFace API on Google Colab to benchmark open-source models for speech-to-text, achieving an 80% accuracy improvement with larger models.",
+          "tags": [
+            "HuggingFace",
+            "benchmarking",
+            "speech-to-text"
+          ],
+          "theme": "evaluation",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "HuggingFace",
+            "Benchmarking",
+            "Speech To Text"
+          ]
+        },
+        {
+          "id": "b-llm-4",
+          "text": "Optimized C++ code using GPT-4, Claude, and DeepSeek, improving execution efficiency by 60,000x.",
+          "tags": [
+            "code-optimization",
+            "AI-assisted-dev",
+            "C++"
+          ],
+          "theme": "optimization",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Code Optimization",
+            "AI-Assisted Development",
+            "Generative AI",
+            "C++",
+            "C/C++",
+            "Large Language Model",
+            "LLM",
+            "LLMs",
+            "GenAI",
+            "CPP"
+          ]
+        },
+        {
+          "id": "b-llm-5",
+          "text": "Applied Chroma and FAISS for RAG pipeline optimization, enabling semantic search and retrieval-augmented response generation.",
+          "tags": [
+            "RAG",
+            "Chroma",
+            "FAISS",
+            "semantic-search"
+          ],
+          "theme": "rag-pipeline",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Retrieval-Augmented Generation",
+            "RAG",
+            "Chroma",
+            "FAISS",
+            "Semantic Search"
+          ]
+        },
+        {
+          "id": "b-llm-6",
+          "text": "Fine-tuned LLMs with LoRA for Amazon product price prediction, improving accuracy by 24%.",
+          "tags": [
+            "LoRA",
+            "fine-tuning",
+            "regression"
+          ],
+          "theme": "fine-tuning",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "LoRA",
+            "Fine Tuning",
+            "Regression"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proj-deep-learning",
+      "title": "Neural Network & Deep Learning Programming",
+      "subtitle": "",
+      "links": {},
+      "dates": "Sep 2025 - Jan 2026",
+      "primary_tech": [
+        "Python",
+        "Neural Networks",
+        "CNN",
+        "RNN",
+        "LSTM",
+        "GRU"
+      ],
+      "role_relevance": [
+        "DS-ML"
+      ],
+      "bullets": [
+        {
+          "id": "b-dl-1",
+          "text": "Built feedforward neural networks from scratch with full backpropagation, achieving 84%+ accuracy via 5-fold cross-validation.",
+          "tags": [
+            "neural-networks",
+            "backpropagation",
+            "from-scratch"
+          ],
+          "theme": "fundamentals",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Neural Networks",
+            "Backpropagation",
+            "From Scratch"
+          ]
+        },
+        {
+          "id": "b-dl-2",
+          "text": "Trained multi-class classifiers on the Reuters Newswire dataset (46 categories), reaching 92%+ validation accuracy and 99.9% top-3 accuracy.",
+          "tags": [
+            "classification",
+            "NLP-dataset"
+          ],
+          "theme": "classification",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Classification",
+            "Natural Language Processing",
+            "NLP"
+          ]
+        },
+        {
+          "id": "b-dl-3",
+          "text": "Developed regression models for Boston Housing price prediction, reducing validation MAE to 2.74 with the RMSProp optimizer.",
+          "tags": [
+            "regression",
+            "optimizer-tuning"
+          ],
+          "theme": "regression",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "Regression",
+            "Optimizer Tuning"
+          ]
+        },
+        {
+          "id": "b-dl-4",
+          "text": "Built CNN classifiers with VGG16 transfer learning and data augmentation, achieving 99%+ test accuracy on image datasets.",
+          "tags": [
+            "CNN",
+            "transfer-learning",
+            "computer-vision"
+          ],
+          "theme": "computer-vision",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "CNN",
+            "Transfer Learning",
+            "Computer Vision",
+            "Convolutional Neural Network",
+            "CV"
+          ]
+        },
+        {
+          "id": "b-dl-5",
+          "text": "Implemented LSTM, GRU, and Bidirectional RNN for sentiment analysis and climate time-series forecasting (420,000+ data points).",
+          "tags": [
+            "LSTM",
+            "GRU",
+            "RNN",
+            "time-series",
+            "sentiment-analysis"
+          ],
+          "theme": "sequence-modeling",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "LSTM",
+            "GRU",
+            "RNN",
+            "Time Series",
+            "Sentiment Analysis",
+            "Long Short-Term Memory",
+            "Gated Recurrent Unit",
+            "Recurrent Neural Network"
+          ]
+        },
+        {
+          "id": "b-dl-6",
+          "text": "Integrated GloVe embeddings (100-dim, 6B tokens) into NLP pipelines, improving classification on limited training data.",
+          "tags": [
+            "GloVe",
+            "embeddings",
+            "NLP"
+          ],
+          "theme": "nlp-embeddings",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "GloVe",
+            "Embeddings",
+            "Natural Language Processing",
+            "NLP"
+          ]
+        },
+        {
+          "id": "b-dl-7",
+          "text": "Combined 1D CNN with GRU for long-sequence time-series prediction, reducing model complexity while maintaining competitive MAE.",
+          "tags": [
+            "CNN",
+            "GRU",
+            "hybrid-architecture",
+            "time-series"
+          ],
+          "theme": "architecture-design",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "CNN",
+            "GRU",
+            "Hybrid Architecture",
+            "Time Series",
+            "Convolutional Neural Network",
+            "Gated Recurrent Unit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proj-mailbag",
+      "title": "MailBag - Full-Stack Email Client",
+      "subtitle": "React + Node.js + TypeScript",
+      "links": {},
+      "dates": "Jan 2026 - Mar 2026",
+      "primary_tech": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "IMAP",
+        "SMTP"
+      ],
+      "role_relevance": [
+        "SWE-fullstack",
+        "SWE-backend"
+      ],
+      "bullets": [
+        {
+          "id": "b-mail-1",
+          "text": "Built a full-stack email client with a React (TypeScript) frontend and a Node.js/Express backend.",
+          "tags": [
+            "React",
+            "TypeScript",
+            "Express"
+          ],
+          "theme": "architecture",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "React",
+            "React.js",
+            "TypeScript",
+            "Express",
+            "ReactJS"
+          ]
+        },
+        {
+          "id": "b-mail-2",
+          "text": "Developed IMAP/SMTP workflows including compose, reply, and delete, with mailbox locking for thread-safe access.",
+          "tags": [
+            "IMAP",
+            "SMTP",
+            "concurrency"
+          ],
+          "theme": "core-feature",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "IMAP",
+            "SMTP",
+            "Concurrency"
+          ]
+        },
+        {
+          "id": "b-mail-3",
+          "text": "Implemented 8 RESTful API endpoints (GET/POST/DELETE) with CORS middleware and async error handling.",
+          "tags": [
+            "REST-API",
+            "middleware",
+            "error-handling"
+          ],
+          "theme": "backend-api",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "RESTful API",
+            "REST API",
+            "Middleware",
+            "Error Handling",
+            "REST",
+            "RESTful APIs",
+            "RESTful Web Services"
+          ]
+        },
+        {
+          "id": "b-mail-4",
+          "text": "Integrated ImapFlow and Nodemailer for real-time IMAP connections and SMTP delivery.",
+          "tags": [
+            "ImapFlow",
+            "Nodemailer",
+            "email-protocols"
+          ],
+          "theme": "integration",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "ImapFlow",
+            "Nodemailer",
+            "Email Protocols"
+          ]
+        },
+        {
+          "id": "b-mail-5",
+          "text": "Built a contact management system using the NeDB embedded database with full CRUD via a Promise-based async API.",
+          "tags": [
+            "NeDB",
+            "CRUD",
+            "async"
+          ],
+          "theme": "data-layer",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "NeDB",
+            "CRUD",
+            "Async"
+          ]
+        },
+        {
+          "id": "b-mail-6",
+          "text": "Enforced strict TypeScript across frontend and backend with shared interfaces (IMessage, IMailbox, IContact) for end-to-end type safety.",
+          "tags": [
+            "TypeScript",
+            "type-safety",
+            "shared-interfaces"
+          ],
+          "theme": "code-quality",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "TypeScript",
+            "Type Safety",
+            "Shared Interfaces"
+          ]
+        },
+        {
+          "id": "b-mail-7",
+          "text": "Developed 7 modular React components with Material-UI, managing state through unified event handlers and controlled form inputs.",
+          "tags": [
+            "React",
+            "Material-UI",
+            "component-design"
+          ],
+          "theme": "frontend",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "React",
+            "React.js",
+            "Material UI",
+            "Component Design",
+            "ReactJS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proj-relational-db",
+      "title": "Relational Database Design & Application Development",
+      "subtitle": "SQL + Python",
+      "links": {},
+      "dates": "Jan 2026 - Mar 2026",
+      "primary_tech": [
+        "SQL",
+        "SQLite",
+        "Python",
+        "Tkinter"
+      ],
+      "role_relevance": [
+        "SWE-backend",
+        "DS-analytics"
+      ],
+      "bullets": [
+        {
+          "id": "b-db-1",
+          "text": "Designed a normalized 3-table relational schema (Students, Courses, Enrollments) in SQLite with composite primary keys, foreign key constraints, AUTOINCREMENT, and UNIQUE constraints.",
+          "tags": [
+            "schema-design",
+            "normalization",
+            "SQLite"
+          ],
+          "theme": "schema-design",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Schema Design",
+            "Normalization",
+            "SQLite"
+          ]
+        },
+        {
+          "id": "b-db-2",
+          "text": "Built a desktop GUI application in Python Tkinter with 6 functional modules, integrating SQLite via parameterized queries to prevent SQL injection.",
+          "tags": [
+            "Tkinter",
+            "GUI",
+            "SQL-injection-prevention"
+          ],
+          "theme": "application-layer",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Tkinter",
+            "GUI",
+            "SQL Injection Prevention",
+            "SQL Injection",
+            "SQLi Prevention"
+          ]
+        },
+        {
+          "id": "b-db-3",
+          "text": "Wrote 50+ SQL queries across DML, DDL, and DQL, including multi-table JOINs (INNER, LEFT OUTER, SELF), UNION, and correlated/derived subqueries against a normalized accounts-payable database.",
+          "tags": [
+            "SQL",
+            "joins",
+            "subqueries"
+          ],
+          "theme": "query-engineering",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "SQL",
+            "Joins",
+            "Subqueries"
+          ]
+        },
+        {
+          "id": "b-db-4",
+          "text": "Performed advanced aggregation and reporting using GROUP BY, HAVING, ROLLUP, and window functions (ROW_NUMBER, PARTITION BY) for multi-level vendor payment summaries.",
+          "tags": [
+            "aggregation",
+            "window-functions",
+            "reporting"
+          ],
+          "theme": "analytics",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "Aggregation",
+            "Window Functions",
+            "Reporting"
+          ]
+        },
+        {
+          "id": "b-db-5",
+          "text": "Optimized query performance through index creation and subquery-based filtering, and executed CRUD operations with cascading DELETE and conditional UPDATE across related tables.",
+          "tags": [
+            "indexing",
+            "query-optimization",
+            "CRUD"
+          ],
+          "theme": "performance",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "Indexing",
+            "Query Optimization",
+            "CRUD"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proj-resume-agent",
+      "title": "AI-Powered Resume Tailoring & Auto-Application Agent",
+      "subtitle": "Java, Selenium, OpenAI API, PDFBox",
+      "links": {},
+      "dates": "Jan 2026 - Mar 2026",
+      "primary_tech": [
+        "Java",
+        "Selenium",
+        "OpenAI API",
+        "PDFBox"
+      ],
+      "role_relevance": [
+        "AI-agent-engineering",
+        "SWE-backend"
+      ],
+      "bullets": [
+        {
+          "id": "b-resagt-1",
+          "text": "Built an end-to-end Java CLI agent that ingests a resume and job URL, using GPT-4o to generate an ATS-optimized resume and cover letter tailored to each job description.",
+          "tags": [
+            "CLI-tool",
+            "GPT-4o",
+            "automation"
+          ],
+          "theme": "core-feature",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "CLI Tool",
+            "GPT-4o",
+            "OpenAI GPT-4",
+            "Automation"
+          ]
+        },
+        {
+          "id": "b-resagt-2",
+          "text": "Designed a multi-stage AI pipeline covering JD extraction (Selenium), structured JSON generation (GPT-4o), HTML-to-PDF rendering (Chrome headless), and cover-letter templating.",
+          "tags": [
+            "pipeline-design",
+            "Selenium",
+            "PDF-generation"
+          ],
+          "theme": "pipeline-architecture",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Pipeline Design",
+            "Selenium",
+            "PDF Generation"
+          ]
+        },
+        {
+          "id": "b-resagt-3",
+          "text": "Implemented an iterative PDF compression algorithm that auto-scales font and layout (100% to 60%) with PDFBox page validation, guaranteeing single-page resume output.",
+          "tags": [
+            "PDFBox",
+            "algorithm-design",
+            "layout-engine"
+          ],
+          "theme": "algorithm",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "PDFBox",
+            "Algorithm Design",
+            "Layout Engine"
+          ]
+        },
+        {
+          "id": "b-resagt-4",
+          "text": "Built a BrowserAgent module that executes AI-generated form instructions via Selenium to autonomously submit job applications, with human-in-the-loop fallback for CAPTCHAs.",
+          "tags": [
+            "browser-automation",
+            "Selenium",
+            "agent-design"
+          ],
+          "theme": "automation",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Browser Automation",
+            "Selenium",
+            "Agent Design"
+          ]
+        },
+        {
+          "id": "b-resagt-5",
+          "text": "Maintained a registry of six pre-written, metrics-rich project descriptions; the AI selects the most JD-relevant subset by name, eliminating hallucinated bullet points.",
+          "tags": [
+            "content-selection",
+            "hallucination-mitigation"
+          ],
+          "theme": "reliability",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "Content Selection",
+            "Hallucination Mitigation"
+          ]
+        },
+        {
+          "id": "b-resagt-6",
+          "text": "Consumed the OpenAI Chat Completions API with strict JSON-only prompts and Gson deserialization to parse nested responses into typed Java objects.",
+          "tags": [
+            "OpenAI-API",
+            "JSON-parsing",
+            "Gson"
+          ],
+          "theme": "integration",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "OpenAI API",
+            "JSON Parsing",
+            "Gson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proj-software-testing",
+      "title": "Professional Software Testing - E-Commerce Platform",
+      "subtitle": "Java, JUnit 5, Spring Boot, MySQL",
+      "links": {},
+      "dates": "Jan 2026 - Mar 2026",
+      "primary_tech": [
+        "Java",
+        "JUnit 5",
+        "Spring Boot",
+        "MySQL",
+        "Docker"
+      ],
+      "role_relevance": [
+        "SWE-backend"
+      ],
+      "bullets": [
+        {
+          "id": "b-test-1",
+          "text": "Tested a full-stack e-commerce platform (68,819 LOC, 514 Java classes) built with Spring Boot, MyBatis, and Docker.",
+          "tags": [
+            "Spring-Boot",
+            "large-codebase",
+            "Docker"
+          ],
+          "theme": "scope",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "Spring Boot",
+            "Large Codebase",
+            "Docker"
+          ]
+        },
+        {
+          "id": "b-test-2",
+          "text": "Applied equivalence partitioning and boundary value analysis to design 6 structured test cases for promotion product query methods.",
+          "tags": [
+            "equivalence-partitioning",
+            "boundary-value-analysis"
+          ],
+          "theme": "test-design",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Equivalence Partitioning",
+            "Boundary Value Analysis"
+          ]
+        },
+        {
+          "id": "b-test-3",
+          "text": "Modeled the order lifecycle with a Finite State Machine (FSM), deriving test cases for state, transition, and path coverage.",
+          "tags": [
+            "FSM",
+            "state-modeling",
+            "coverage"
+          ],
+          "theme": "test-design",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "FSM",
+            "State Modeling",
+            "Coverage"
+          ]
+        },
+        {
+          "id": "b-test-4",
+          "text": "Wrote JUnit 5 tests with @SpringBootTest, @Transactional, and @Rollback to validate DAO-layer batch inserts and Elasticsearch integration.",
+          "tags": [
+            "JUnit5",
+            "Spring-Boot-testing",
+            "Elasticsearch"
+          ],
+          "theme": "integration-testing",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "JUnit5",
+            "Spring Boot Testing",
+            "Elasticsearch"
+          ]
+        },
+        {
+          "id": "b-test-5",
+          "text": "Used static analysis (PMD, GitHub CodeQL), CI (GitHub Actions), Mockito, and Jacoco to drive white-box test coverage.",
+          "tags": [
+            "PMD",
+            "CodeQL",
+            "CI-CD",
+            "Mockito",
+            "Jacoco"
+          ],
+          "theme": "quality-tooling",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "PMD",
+            "CodeQL",
+            "CI/CD",
+            "Continuous Integration/Continuous Deployment",
+            "Mockito",
+            "Jacoco",
+            "CI-CD",
+            "Continuous Integration",
+            "Continuous Deployment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proj-movie-explorer-android",
+      "title": "Movie Explorer - Android Mobile Application",
+      "subtitle": "Java, Android SDK, Retrofit2, RecyclerView, Picasso",
+      "links": {},
+      "dates": "Jan 2026 - Mar 2026",
+      "primary_tech": [
+        "Java",
+        "Android SDK",
+        "Retrofit2",
+        "RecyclerView",
+        "Picasso"
+      ],
+      "role_relevance": [
+        "Mobile",
+        "SWE-backend"
+      ],
+      "bullets": [
+        {
+          "id": "b-movie-1",
+          "text": "Built an Android app consuming the TMDB REST API via Retrofit2 with Gson deserialization, displaying real-time movie details.",
+          "tags": [
+            "Retrofit2",
+            "REST-API",
+            "Gson"
+          ],
+          "theme": "api-integration",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Retrofit2",
+            "RESTful API",
+            "REST API",
+            "Gson",
+            "REST",
+            "RESTful APIs",
+            "RESTful Web Services"
+          ]
+        },
+        {
+          "id": "b-movie-2",
+          "text": "Implemented a top-rated movies list using RecyclerView with a custom ViewHolder adapter, loading poster images asynchronously with Picasso.",
+          "tags": [
+            "RecyclerView",
+            "Picasso",
+            "async-loading"
+          ],
+          "theme": "ui-performance",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "RecyclerView",
+            "Picasso",
+            "Async Loading"
+          ]
+        },
+        {
+          "id": "b-movie-3",
+          "text": "Designed multi-screen navigation with explicit Intents across MainActivity, MovieListActivity, and ProgramListActivity.",
+          "tags": [
+            "Android-navigation",
+            "Intents"
+          ],
+          "theme": "navigation",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "Android Navigation",
+            "Intents"
+          ]
+        },
+        {
+          "id": "b-movie-4",
+          "text": "Structured API integration with a dedicated MovieApiService interface, reusing a singleton Retrofit instance across activities.",
+          "tags": [
+            "singleton-pattern",
+            "API-service-design"
+          ],
+          "theme": "architecture",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "Singleton Pattern",
+            "API Service Design"
+          ]
+        },
+        {
+          "id": "b-movie-5",
+          "text": "Handled asynchronous API callbacks with enqueue(), logging errors on failure and updating UI on successful response.",
+          "tags": [
+            "async-callbacks",
+            "error-handling"
+          ],
+          "theme": "error-handling",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "Async Callbacks",
+            "Error Handling"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proj-cloud-security",
+      "title": "Cloud Security Assessment & Penetration Testing",
+      "subtitle": "Wireshark, Hashcat, Kali Linux, Burp Suite, Shodan, Censys, OWASP",
+      "links": {},
+      "dates": "Apr 2026 - Jun 2026",
+      "primary_tech": [
+        "Wireshark",
+        "Hashcat",
+        "Burp Suite",
+        "Shodan",
+        "Censys"
+      ],
+      "role_relevance": [
+        "Security"
+      ],
+      "bullets": [
+        {
+          "id": "b-sec-1",
+          "text": "Conducted passive cloud asset reconnaissance on uci.edu via certificate transparency logs, enumerating 2,080 subdomains and mapping 410 cloud assets across AWS, GCP, Azure, and Cloudflare; identified 7 high-risk publicly exposed assets.",
+          "tags": [
+            "recon",
+            "attack-surface-mapping",
+            "cloud-security"
+          ],
+          "theme": "reconnaissance",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Recon",
+            "Attack Surface Mapping",
+            "Cloud Security"
+          ]
+        },
+        {
+          "id": "b-sec-2",
+          "text": "Cracked a 500K-entry LinkedIn SHA-1 breach dataset using Hashcat with wordlist and rule-based attacks, achieving a peak recovery rate of 61.32% (306,604 hashes).",
+          "tags": [
+            "Hashcat",
+            "password-cracking",
+            "SHA-1"
+          ],
+          "theme": "credential-analysis",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Hashcat",
+            "Password Cracking",
+            "SHA 1"
+          ]
+        },
+        {
+          "id": "b-sec-3",
+          "text": "Authored a NIST SP 800-30 Rev. 1 aligned qualitative risk assessment for a simulated pharmaceutical company, identifying 10 enterprise security risks (7 HIGH) with a prioritized 0-365 day remediation roadmap.",
+          "tags": [
+            "NIST-800-30",
+            "risk-assessment"
+          ],
+          "theme": "governance",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "NIST 800 30",
+            "Risk Assessment"
+          ]
+        },
+        {
+          "id": "b-sec-4",
+          "text": "Exploited DOM-based Cross-Site Scripting (XSS), Broken Access Control, and Business Logic vulnerabilities on OWASP Juice Shop using Burp Suite, demonstrating session hijacking and negative-quantity order manipulation.",
+          "tags": [
+            "Burp-Suite",
+            "XSS",
+            "access-control"
+          ],
+          "theme": "vulnerability-exploitation",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Burp Suite",
+            "XSS",
+            "Access Control",
+            "Cross-Site Scripting"
+          ]
+        },
+        {
+          "id": "b-sec-5",
+          "text": "Captured and analyzed HTTPS traffic with Wireshark to isolate TLS packet exchanges, and automated a 4-stage cloud recon pipeline in Python with zero external dependencies.",
+          "tags": [
+            "Wireshark",
+            "TLS-analysis",
+            "automation"
+          ],
+          "theme": "traffic-analysis",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "Wireshark",
+            "TLS Analysis",
+            "Automation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proj-agentic-ai",
+      "title": "Agentic AI Engineering",
+      "subtitle": "OpenAI Agents SDK | CrewAI | LangGraph | AutoGen | MCP",
+      "links": {},
+      "dates": "May 2026 - Jul 2026",
+      "primary_tech": [
+        "OpenAI Agents SDK",
+        "CrewAI",
+        "LangGraph",
+        "MCP",
+        "Pydantic"
+      ],
+      "role_relevance": [
+        "AI-agent-engineering"
+      ],
+      "bullets": [
+        {
+          "id": "b-agent-1",
+          "text": "Built a multi-agent deep research pipeline using OpenAI Agents SDK (Planner -> Search -> Writer -> Email), enabling parallel web search, structured report generation, and automated delivery via SendGrid.",
+          "tags": [
+            "OpenAI-Agents-SDK",
+            "multi-agent",
+            "pipeline-design"
+          ],
+          "theme": "pipeline-architecture",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "OpenAI Agents SDK",
+            "Multi Agent",
+            "Pipeline Design"
+          ]
+        },
+        {
+          "id": "b-agent-2",
+          "text": "Developed an AI-powered career assistant with Gradio, integrating LinkedIn PDF parsing, function calling, and Pushover notifications for lead tracking.",
+          "tags": [
+            "Gradio",
+            "function-calling",
+            "PDF-parsing"
+          ],
+          "theme": "application",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "Gradio",
+            "Function Calling",
+            "PDF Parsing"
+          ]
+        },
+        {
+          "id": "b-agent-3",
+          "text": "Designed and implemented five multi-agent systems with CrewAI, including debate adjudication, financial research, news-driven stock analysis, autonomous coding, and an AI software engineering team.",
+          "tags": [
+            "CrewAI",
+            "multi-agent-systems"
+          ],
+          "theme": "multi-agent-design",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "CrewAI",
+            "Multi Agent Systems"
+          ]
+        },
+        {
+          "id": "b-agent-4",
+          "text": "Built Sidekick, a personal AI collaborator powered by LangGraph, featuring Worker-Evaluator feedback loops, Playwright browser automation, and tool orchestration.",
+          "tags": [
+            "LangGraph",
+            "worker-evaluator",
+            "Playwright"
+          ],
+          "theme": "agent-architecture",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "LangGraph",
+            "Worker Evaluator",
+            "Playwright"
+          ]
+        },
+        {
+          "id": "b-agent-5",
+          "text": "Developed an autonomous trading simulation platform based on the Model Context Protocol (MCP), including custom FastMCP servers for account management, market data, and notifications; integrated OpenAI Agents SDK, SQLite persistence, and a Gradio dashboard.",
+          "tags": [
+            "MCP",
+            "FastMCP",
+            "trading-simulation"
+          ],
+          "theme": "mcp-servers",
+          "impact_tier": 1,
+          "ats_keywords": [
+            "Model Context Protocol",
+            "MCP",
+            "FastMCP",
+            "Trading Simulation"
+          ]
+        },
+        {
+          "id": "b-agent-6",
+          "text": "Applied advanced agent engineering patterns including handoffs, input guardrails, structured outputs with Pydantic, hierarchical delegation, and checkpoint-based memory.",
+          "tags": [
+            "guardrails",
+            "Pydantic",
+            "agent-patterns"
+          ],
+          "theme": "agent-patterns",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "Guardrails",
+            "Pydantic",
+            "Agent Patterns"
+          ]
+        },
+        {
+          "id": "b-agent-7",
+          "text": "Integrated 20+ external services and APIs (SendGrid, Pushover, Serper, Polygon, Playwright, ChromaDB), supporting seamless switching across OpenAI, Anthropic, Gemini, Grok, and DeepSeek.",
+          "tags": [
+            "API-integration",
+            "multi-provider-LLM"
+          ],
+          "theme": "integration-breadth",
+          "impact_tier": 2,
+          "ats_keywords": [
+            "API Integration",
+            "Multi Provider LLM"
+          ]
+        }
+      ]
+    }
+  ],
+  "selection_guidance": {
+    "note": "Use this content bank for JD-driven resume assembly. Recommended selection algorithm and one-page budget rules for the program that consumes this file.",
+    "page_budget": {
+      "target": "1 page at 10-10.5pt font, 0.5in margins",
+      "recommended_caps": {
+        "experience_entries": "2-3",
+        "bullets_per_experience": "3-4",
+        "projects": "3-4",
+        "bullets_per_project": "3-4",
+        "coursework": "5-7",
+        "skills_total": "15-20 (grouped by category, not whole categories)"
+      }
+    },
+    "selection_algorithm": [
+      "1. Parse JD into weighted keyword set (tech stack, role type, domain terms).",
+      "2. Score each project/experience by role_relevance + primary_tech overlap with JD keywords -> rank entries, pick top N within budget.",
+      "3. Within a chosen project/experience, score individual bullets by tags overlap + impact_tier -> pick top 3-4 bullets.",
+      "4. Enforce theme diversity within a project: avoid selecting 2+ bullets with the same theme unless fewer than 4 bullets exist total, so the picked set covers different angles (architecture, algorithm, testing, outcome, etc.) instead of reading redundantly.",
+      "5. Select individual skills (not whole categories) by tag overlap with JD keywords; cap total skill count per budget.",
+      "6. Select coursework by tag overlap with JD domain (e.g., pick 'database' + 'distributed-systems' courses for a backend SWE JD).",
+      "7. Assemble at fixed font size; if still over one page, drop lowest impact_tier bullets/projects first -- do not shrink font below 10pt."
+    ],
+    "ats_matching_algorithm": [
+      "1. Normalize the JD text: for every (canonical, variants) pair in ats_alias_map, replace any variant occurrence in the JD with the canonical term (case-insensitive), so 'ML' and 'Machine Learning' collapse to one matchable form.",
+      "2. For each bullet/skill, use its precomputed `ats_keywords` list (already alias-expanded) rather than the internal `tags` field for JD matching -- `tags` is for theme-diversity/internal scoring, `ats_keywords` is for literal JD/ATS matching.",
+      "3. Score = count of distinct ats_keywords found as a substring/exact phrase in the normalized JD (case-insensitive). Weight the score by impact_tier (e.g., score * (4 - impact_tier)) so equally-matching bullets favor the stronger/more quantified one.",
+      "4. When two bullets in the same project tie on score, prefer the one with a different `theme` from bullets already selected, to avoid redundant angles.",
+      "5. ATS hygiene: avoid Unicode symbols (arrows, bullets-as-glyphs, smart quotes) in final bullet text -- some parsers mis-render them; stick to ASCII punctuation.",
+      "6. Mirror the JD's own phrasing where possible for the skills list specifically (many ATS do literal string match on the Skills section) -- if the JD says 'Machine Learning' prefer that exact phrase over just 'ML' in the rendered skills line, even though both are stored as keyword variants."
+    ]
+  },
+  "ats_alias_map": {
+    "Machine Learning": [
+      "ML",
+      "Machine Learning Engineering"
+    ],
+    "Artificial Intelligence": [
+      "AI"
+    ],
+    "Natural Language Processing": [
+      "NLP"
+    ],
+    "Large Language Model": [
+      "LLM",
+      "LLMs",
+      "Generative AI",
+      "GenAI"
+    ],
+    "Retrieval-Augmented Generation": [
+      "RAG"
+    ],
+    "Continuous Integration/Continuous Deployment": [
+      "CI/CD",
+      "CI-CD",
+      "Continuous Integration",
+      "Continuous Deployment"
+    ],
+    "RESTful API": [
+      "REST API",
+      "REST",
+      "RESTful APIs",
+      "RESTful Web Services"
+    ],
+    "Object-Oriented Programming": [
+      "OOP",
+      "Object-Oriented Design"
+    ],
+    "User Interface/User Experience": [
+      "UI/UX",
+      "UX/UI",
+      "UI",
+      "UX"
+    ],
+    "Amazon Web Services": [
+      "AWS"
+    ],
+    "Application Programming Interface": [
+      "API",
+      "APIs"
+    ],
+    "Data Analysis": [
+      "Data Analytics",
+      "Analytics"
+    ],
+    "Full-Stack Development": [
+      "Full Stack Engineer",
+      "Full-Stack Engineer",
+      "Full Stack Development"
+    ],
+    "Backend Development": [
+      "Back-End Development",
+      "Server-Side Development",
+      "Backend Engineering"
+    ],
+    "Frontend Development": [
+      "Front-End Development",
+      "Client-Side Development",
+      "Frontend Engineering"
+    ],
+    "Database Management": [
+      "DBMS",
+      "Database Administration"
+    ],
+    "Version Control": [
+      "Git",
+      "Source Control"
+    ],
+    "Prompt Engineering": [
+      "Prompt Design",
+      "Prompt Optimization"
+    ],
+    "Model Context Protocol": [
+      "MCP"
+    ],
+    "Penetration Testing": [
+      "Pen Testing",
+      "PenTest",
+      "Ethical Hacking"
+    ],
+    "Cybersecurity": [
+      "Cyber Security",
+      "Information Security",
+      "InfoSec"
+    ],
+    "Node.js": [
+      "NodeJS",
+      "Node"
+    ],
+    "React": [
+      "React.js",
+      "ReactJS"
+    ],
+    "SQL Injection Prevention": [
+      "SQLi Prevention",
+      "SQL Injection"
+    ],
+    "Deep Learning": [
+      "DL"
+    ],
+    "Computer Vision": [
+      "CV"
+    ],
+    "Convolutional Neural Network": [
+      "CNN"
+    ],
+    "Recurrent Neural Network": [
+      "RNN"
+    ],
+    "Long Short-Term Memory": [
+      "LSTM"
+    ],
+    "Gated Recurrent Unit": [
+      "GRU"
+    ],
+    "Software Engineer": [
+      "SWE",
+      "Software Engineering"
+    ],
+    "Data Scientist": [
+      "DS",
+      "Data Science"
+    ],
+    "Quality Assurance": [
+      "QA"
+    ],
+    "Cross-Site Scripting": [
+      "XSS"
+    ],
+    "Application Security": [
+      "AppSec"
+    ],
+    "C++": [
+      "C/C++",
+      "CPP"
+    ],
+    "Software Development Life Cycle": [
+      "SDLC"
+    ]
+  }
+}
